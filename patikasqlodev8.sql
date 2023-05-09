@@ -18,9 +18,9 @@ Set
 Where id = 1;
 Update employee
 Set
-	name = 'Hilal Can',
-	birthday  = '2002-09-11',
-	email = 'hilalcan1@gmail.com'
+	name = 'Burak Eren Tan',
+	birthday  = '2002-03-22',
+	email = 'buraktan1@gmail.com'
 Where id = 5;
 Update employee
 Set
